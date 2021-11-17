@@ -2,6 +2,8 @@
 
 - 🔭 Trabalho com programação C# Avançada com módulos de pesquisa, consulta e banco de dados.
 
+- 🖥️ Conhecimento amplo em desenvolvimento front-end
+
 - 🌱 Estudando o ambiente MVC em camada Windows Forms, Web e API.
 
 - 😄 Pronomes: ela/dela.
